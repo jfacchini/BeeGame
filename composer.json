@@ -1,0 +1,16 @@
+{
+    "name": "jfacchini/bee_game",
+    "description": "Bee game application",
+    "authors": [
+        {
+            "name": "Jocelyn FACCHINI",
+            "email": "jocelyn.facchini@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jfacchini\\": "Jfacchini"
+        }
+    },
+    "require": {}
+}
